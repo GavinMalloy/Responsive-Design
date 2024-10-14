@@ -30,7 +30,7 @@
 .nav-link-class {
   color: rgb(54, 245, 70);
   @media (max-width: 450px) {
-    font-size: 12px;
+    font-size: 16px;
   }
   @media (max-width: 550px) {
     font-size: 16px;
