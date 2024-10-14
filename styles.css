@@ -1,0 +1,158 @@
+.body-class {
+  background-color: rgb(197, 204, 180);
+  font-family: sans-serif;
+}
+.title-class {
+  color: rgb(25, 119, 141);
+  @media (max-width: 450px) {
+    font-size: 16px;
+  }
+  @media (max-width: 550px) {
+    font-size: 20px;
+  }
+}
+.header-class {
+  color: chocolate;
+  @media (max-width: 450px) {
+    font-size: 12px;
+  }
+  @media (max-width: 550px) {
+    font-size: 14px;
+  }
+}
+.nav-class {
+  text-align: center;
+  height: 22px;
+  color: rgb(189, 245, 47);
+  background-color: rgb(1, 9, 13);
+  font-weight: bold;
+}
+.nav-link-class {
+  color: rgb(54, 245, 70);
+  @media (max-width: 450px) {
+    font-size: 12px;
+  }
+  @media (max-width: 550px) {
+    font-size: 14px;
+  }
+}
+.hero-selection-class {
+  color: rgb(27, 114, 70);
+}
+.section-title-class {
+  color: rgb(154, 60, 82);
+  text-align: center;
+  @media (max-width: 450px) {
+    font-size: 15px;
+  }
+  @media (max-width: 550px) {
+    font-size: 18px;
+  }
+}
+.text-class {
+  color: rgb(76, 8, 148);
+  font-size: 17px;
+  @media (max-width: 450px) {
+    font-size: 12px;
+  }
+  @media (max-width: 550px) {
+    font-size: 14px;
+  }
+}
+.image-class {
+  color: rgb(209, 252, 34);
+  background-color: rgb(141, 12, 98);
+  max-width: 1200px;
+  border: 5px solid rgb(101, 108, 158);
+  @media (max-width: 770px) {
+    max-width: 650px;
+  }
+  @media (max-width: 650px) {
+    max-width: 500px;
+  }
+  @media (max-width: 550px) {
+    max-width: 450px;
+  }
+  @media (max-width: 450px) {
+    max-width: 400px;
+  }
+  @media (max-width: 350px) {
+    max-width: 3000px;
+  }
+  @media (max-width: 250px) {
+    max-width: 150px;
+  }
+}
+.origin-section-class {
+  color: rgb(163, 201, 214);
+  @media (max-width: 450px) {
+    font-size: 15px;
+  }
+  @media (max-width: 550px) {
+    font-size: 18px;
+  }
+}
+.testimonial-section-class {
+  color: rgb(174, 21, 21);
+  @media (max-width: 450px) {
+    font-size: 15px;
+  }
+  @media (max-width: 550px) {
+    font-size: 18px;
+  }
+}
+.cite-class {
+  color: rgb(52, 121, 155);
+  font-family: sans-serif;
+  @media (max-width: 450px) {
+    font-size: 12px;
+  }
+  @media (max-width: 550px) {
+    font-size: 14px;
+  }
+}
+.faq-question-class {
+  color: rgb(78, 148, 84);
+
+  font-size: 20px;
+  @media (max-width: 450px) {
+    font-size: 14px;
+  }
+  @media (max-width: 550px) {
+    font-size: 14px;
+  }
+}
+.form-class {
+  color: rgb(132, 42, 120);
+  @media (max-width: 450px) {
+    font-size: 12px;
+  }
+  @media (max-width: 550px) {
+    font-size: 14px;
+  }
+}
+.footer-class {
+  background-color: rgb(254, 78, 78);
+  @media (max-width: 450px) {
+    font-size: 11px;
+  }
+  @media (max-width: 550px) {
+    font-size: 12px;
+  }
+}
+.label-class {
+  color: rgb(208, 34, 34);
+  @media (max-width: 450px) {
+    font-size: 12px;
+  }
+  @media (max-width: 550px) {
+    font-size: 14px;
+  }
+}
+.button-class {
+  color: rgb(215, 206, 23);
+  background-color: rgb(32, 6, 99);
+}
+.blockquote-class {
+  font-family: cursive;
+}
